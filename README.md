@@ -1,13 +1,23 @@
 📊Delivery Performance Analysis Dashboard
 📌Project Overview
-This project analyzes food delivery operations using SQL and PowerBI to identify key factors affecting delivery time and operational efficiency.The goal is to uncover bottlenecks and provide actionable insights.
+This project analyzes food delivery
+operations using SQL and PowerBI to 
+identify key factors affecting delivery
+time and operational efficiency.The goal is to uncover bottlenecks 
+and provide actionable insights.
 📊Key Insights
-🚦Traffic is the biggest bottleneck,increasing delivery time
-🌃Evening hours have the highest delays(~58mins)
-❄️Weather(snowy) causes highest delivery time(~67mins)
-🚘Cars are slowe than bikes/scooter in dense areas
-⚠️41% orders are delayed(SLA Breach)
-👨‍🦰Rider load has less impact compared to traffic
+🚦Traffic is the biggest bottleneck,
+increasing delivery time
+🌃Evening hours have the highest
+delays(~58mins)
+❄️Weather(snowy) causes highest
+delivery time(~67mins)
+🚘Cars are slowe than bikes/
+scooter in dense areas
+⚠️41% orders are delayed
+(SLA Breach)
+👨‍🦰Rider load has less impact 
+compared to traffic
 
 ⚙️Tools Used
 SQL
