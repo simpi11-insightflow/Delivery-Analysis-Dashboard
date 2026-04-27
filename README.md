@@ -42,9 +42,12 @@ Excel
 🧠SQL Queries:[View Queries](./delivery_insights_queries.sql)
 
 📷Dashboard Preview
-Overview Dashboard:![Dashboard](dashboard 1.0.png)
+Overview Dashboard:
+![Dashboard](dashboard 1.0.png)
 
-Rider and Delivery Analysis:![Dashboard](dashboard 2.0.png)
+Rider and Delivery Analysis:
+
+![Dashboard](dashboard 2.0.png)
 
 Insights and Recommendation:![Dashboard](dashboard 3.0.png)
 
