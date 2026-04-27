@@ -43,13 +43,13 @@ Excel
 
 📷Dashboard Preview
 Overview Dashboard:
-![Dashboard](dashboard 1.0.png)
+![Dashboard](dashboard1.0.png)
 
 Rider and Delivery Analysis:
+![Dashboard](dashboard2.0.png)
 
-![Dashboard](dashboard 2.0.png)
-
-Insights and Recommendation:![Dashboard](dashboard 3.0.png)
+Insights and Recommendation
+:![Dashboard](dashboard3.0.png)
 
 💡Recommendations
 Optimize routing in high traffic areas
